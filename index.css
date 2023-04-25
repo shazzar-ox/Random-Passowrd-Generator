@@ -1,0 +1,55 @@
+
+
+.main-div
+{
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    justify-content: center;
+    margin: 50px auto;
+    height: 550px;
+    background: #1F2937;
+    padding: 0px 30px;
+    color: white;
+    border-radius: 10px;
+}
+.main-btn {
+    border-top: 2px solid black;
+    margin-top: 35px;
+   
+}
+span {
+    color: #55F991;
+}
+.btn-one {
+    margin-top: 40px;
+    background: #10B981;
+    color: white;
+    width: 250px;
+    padding: 10px 30px;
+    border-radius: 4px;
+    border: none;
+}
+.btn-two 
+{
+   
+    margin-top: 30px;
+    width: 1fr;
+    height: 1fr;
+    min-height: 100px;
+    min-width: 180px;
+    padding: 10px 30px;
+    background: #1F2937;
+    border-radius: 4px;
+    padding: 15px 3px;
+    color: white;
+}
+#number-el {
+   
+    background: white;
+    color: black;
+    width: 50px;
+    padding: 10px 30px;
+    border-radius: 4px;
+    border: none;
+}
