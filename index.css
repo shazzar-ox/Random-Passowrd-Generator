@@ -9,13 +9,13 @@
     margin: 50px auto;
     height: 550px;
     background: #1F2937;
-    padding: 0px 30px;
+    padding: 0% 3%;
     color: white;
     border-radius: 10px;
 }
 .main-btn {
-    border-top: 2px solid black;
-    margin-top: 35px;
+    border-top: 2px solid #10B981;
+    margin-top: 3%;
    
 }
 span {
@@ -36,10 +36,10 @@ span {
     margin-top: 30px;
     width: 1fr;
     height: 1fr;
-    min-height: 100px;
-    min-width: 180px;
+    min-height: 50px;
+    min-width: 150px;
     padding: 10px 30px;
-    background: #1F2937;
+    background: #10B981;
     border-radius: 4px;
     padding: 15px 3px;
     color: white;
